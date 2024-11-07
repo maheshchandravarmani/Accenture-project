@@ -19,6 +19,19 @@ class Main {
     System.out.println("Sum is: " + result);
   }
 }
+
+code changes by developer for version1.2
+// method with two parameters
+int addNumbers(int a, int b) {
+  // code
+}
+
+// method with no parameter
+int addNumbers(){
+  // code
+}
+End of code changes for version1.2
+
 Code changes for version1.1 by developer
 class Main {
 
@@ -40,3 +53,4 @@ class Main {
   }
 }
 End of code changes for version1.1
+
